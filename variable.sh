@@ -29,7 +29,8 @@ do
     echo $TOKEN
 done
 
-
+# $? variable represents the exit status of the previous command
+echo $?
 
 
 
