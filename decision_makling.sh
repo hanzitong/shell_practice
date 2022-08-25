@@ -3,7 +3,7 @@
 # if..else statement forms
 # if...fi
 # if...else...fi
-# if...eli...else...fi
+# if...elif...else...fi
 
 # case...esac statement
 # when all of the branches depend on the value of a single variable,

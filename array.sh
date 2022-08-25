@@ -18,3 +18,16 @@ echo "Second method: ${NAME[@]}"
 
 echo $NAME[0]
 
+
+# my test space
+echo "===my test space==="
+array1=(aa,bb,cc)
+array2=(a b c)
+
+echo ${array1[@]}
+echo ${array2[@]}
+
+echo ${array1[1]}
+echo ${array2[1]}
+
+
