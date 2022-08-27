@@ -11,6 +11,3 @@ read -p "Input your age plz" AGE
 echo "hello, $NAME $AGE years old"
 
 
-
-
-
